@@ -24,7 +24,7 @@ function About() {
               <div className="mt-4 space-y-2 text-gray-400">
                 <p><strong>Birthday :</strong> 12 December 2002</p>
                 <p><strong>Age :</strong> 22</p>
-                <p><strong>Website :</strong> <a href="https://khuntarpit.github.io" className="text-blue-400 hover:underline">khuntarpit.github.io</a></p>
+                <p><strong>Website :</strong> <a href="https://khuntarpit.github.io" className="text-blue-400 hover:underline">divyesh patil</a></p>
                 <p><strong>Phone :</strong> +91 9529093349</p>
                 <p><strong>City :</strong> Surat, Gujarat</p>
                 <p><strong>Degree :</strong> Bachelor</p>
